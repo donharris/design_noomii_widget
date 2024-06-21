@@ -1,0 +1,15 @@
+<div id="noomii-widget" class="website-badge" style="width: 175px; align-content: center !important;">
+    <div class="header">
+      <a href="https://www.noomii.com" target="_blank">
+        <img alt="Noomii logo" src="/assets/logo/logo-auth-d45bdd062f894edaf28cc2d00f4484d705ac0ce462a685f58d4d688dda943e24.png" width: 150px;">
+      </a>
+    </div>
+  <div class="body">
+    <p>    
+    <br>
+        <div style="text-align: center;"> 
+          <a href="http://www.noomii.com/users/don-harris" target="_blank">View My Coaching Profile </a>
+        </div>
+    </p>
+  </div>
+</div>
